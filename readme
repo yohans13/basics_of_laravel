@@ -1,0 +1,5 @@
+install project :  composer create-project laravel/laravel laravel11-basic-structure
+browse the application : php artisan serve >> http://127.0.0.1:8000
+
+npm install
+npm run dev
