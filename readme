@@ -1,6 +1,6 @@
+==================================== install ==========================================
 install project :  composer create-project laravel/laravel laravel11-basic-structure
-browse the application : php artisan serve >> http://127.0.0.1:8000
-
+browse the application : php artisan serve >> http://127.0.0.1:8000 
 npm install
 npm run dev
 
@@ -9,4 +9,8 @@ create controller   : php artisan make:controller welcome_controller
 create model        : php artisan make:model Note -m  //-m for migration file
 create factory      : php artisan make:factory --model=Note
 create view         : php artisan:make:view note.index (.index mean folder-note in index file)
+
+========================= Eloquent: Getting Started ================================
+
+
 
