@@ -13,4 +13,7 @@ create view         : php artisan:make:view note.index (.index mean folder-note 
 ========================= Eloquent: Getting Started ================================
 
 
+for validation => spatie/laravel-data
+
+
 
